@@ -16,6 +16,8 @@
         <module>springcloud-zuul-client</module>
         <module>microservice-eureka-server</module>
         <module>microservice-eureka-client</module>
+        <module>springcloud-hystrix-client</module>
+        <module>springcloud-config</module>
     </modules>
 
     <parent>
